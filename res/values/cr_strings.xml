@@ -707,6 +707,8 @@
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
     <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_brightness_haptic_feedback_title">Haptic feedback</string>
+    <string name="qs_brightness_haptic_feedback_summary">Haptic feedback when adjusting brightness (Requires touch feedback to be enabled)</string>
 
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Colored icons</string>
@@ -1570,4 +1572,15 @@
 
     <!-- Radio Info -->
     <string name="radio_info_title">Radio info</string>
+    
+    <!-- Scroll fling haptic feedback-->
+    <string name="scroll_fling_haptic_feedback_title">Vibrate on scroll flings</string>
+    <string name="scroll_fling_haptic_feedback_summary">Vibrate on reaching edges when scrolling with fling gesture</string>
+
+    <!-- Volume panel haptic feedback-->
+    <string name="volume_panel_haptic_feedback_title">Vibrate on changing volume</string>
+
+    <!-- Misc vibration -->
+    <string name="misc_vibration_category">Miscellaneous</string>
+
 </resources>
